@@ -1,0 +1,7 @@
+pandas==1.4.3
+nltk==3.7
+numpy=1.23.1
+sentences_transformers==2.2.2
+faiis==1.7.2
+torch==1.12.0+cpu
+streamlit==1.11.0
